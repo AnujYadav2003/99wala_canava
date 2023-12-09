@@ -1,0 +1,68 @@
+body{
+    background-color:#101728;
+    color:#fff;
+}
+.nav1{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:30px;
+    display:flex;
+    justify-content:space-between;
+}
+.nav1_a{
+    display:flex;
+}
+.nav1_a1{
+    padding-left:12px;
+}
+.nav1_a2{
+    font-family:cursive;
+    font-size: 30px;
+}
+.navbar{
+    font-weight:700px;
+    text-align:center;
+    font-size:25px;
+    justify-content:space-around;
+    letter-spacing: 0.09em;
+}
+.nav2{
+    padding-top:90px;
+    display:flex;
+    justify-content:space-between;
+    padding-left:80px;
+    padding-right:30px;
+}
+.nav2_a1
+{
+    font-size:80px;
+    font-weight: bold;
+    line-height: 80px;
+   
+}
+.nav2_a2
+{
+    font-size:40px;
+    margin-top: -9%;
+   
+    
+    font-family:Comic Sans MS;
+}
+.button{
+    height: 70px;
+    width:220px;
+    border-radius:40px;
+    background-color: rgb(238, 79, 105);
+    background-image: linear-gradient(to right, rgb(238, 79, 105),pink);
+    font-weight: 800;
+    font-size:20px;
+    border:none;
+}
+.student_img{
+    height:350px;
+    width:500px;
+    margin-right:25px;
+    border-radius:20px;
+    justify-content: space-around;
+    margin-top:-3%;
+}
